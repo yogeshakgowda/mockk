@@ -4,6 +4,7 @@ import java.time.Duration;
 import java.util.Set;
 
 import org.openqa.selenium.ScreenOrientation;
+import org.openqa.selenium.WebDriver;
 
 import io.appium.java_client.android.AndroidDriver;
 import io.appium.java_client.android.AndroidDriver.*;
